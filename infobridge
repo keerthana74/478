@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+void main(){
+int X,P,i,count=0;
+scanf("%d",&X);
+scanf("%d",&P);
+while(i!=0){
+res=(P*X)/100;
+count++;
+}
+printf("%d",count);
+}
