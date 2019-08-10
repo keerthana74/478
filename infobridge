@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 void main(){
-int X,P,i,count=0;
+int X,P,i,count=0,res;
 scanf("%d",&X);
 scanf("%d",&P);
 while(i!=0){
